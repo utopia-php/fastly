@@ -1,7 +1,7 @@
 # Utopia Fastly
 
 > [!IMPORTANT]
-> This repository is a read-only mirror of the [utopia-php monorepo](https://github.com/utopia-php/monorepo). Development happens in [`packages/fastly`](https://github.com/utopia-php/monorepo/tree/main/packages/fastly) — please open issues and pull requests there.
+> This repository is archived. Utopia Fastly now lives in `packages/fastly` of Appwrite's Edge repository, its only consumer, where it is developed and loaded directly. No further releases are published here.
 
 A small [Fastly](https://www.fastly.com) API client for PHP 8.4+, built on
 [utopia-php/client](https://github.com/utopia-php/client). It currently exposes
